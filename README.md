@@ -1,4 +1,4 @@
-A continuously expanded list of online maps examples for data visualization. Purpose is to create example set for references and further learning.
+A continuously expanded list of online maps examples for data visualization. Purpose is to create example set for reference and further learning.
 
 [Bubble maps](#bubble-maps)
 
