@@ -1,5 +1,6 @@
 A continuously expanded list of online maps examples for data visualization. Purpose is to create example set for reference and further learning.
-
+* [Choropleth map](#choropleth-map)
+* [Heatmap](#heatmap) 
 * [Bubble maps](#bubble-maps)
 * [Map is based on user action](#map-is-based-on-user-action)
 
