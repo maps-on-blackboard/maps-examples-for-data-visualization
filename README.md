@@ -1,11 +1,13 @@
 A continuously expanded list of online maps examples for data visualization. Purpose is to create example set for reference and further learning.
-* [Choropleth map / Thematic Map](#choropleth-map)
+* [Choropleth map (Thematic Map)](#choropleth-map)
 * [Heatmap](#heatmap) 
 * [Bubble maps](#bubble-maps)
 * [Map is based on user action](#map-is-based-on-user-action)
 * [Animated maps](#animated-maps)
 * [Time Series maps](#time-series-maps)
-### Chorepleth map / Thematic map
+
+### Chorepleth map (Thematic map)
+* [N.C.A.A. Fan Map: How the Country Roots for College Football](http://www.nytimes.com/interactive/2014/10/03/upshot/ncaa-football-map.html) by The New York Times
 * [How central banks have lost control of the world](http://www.telegraph.co.uk/finance/economics/11378193/How-central-banks-have-lost-control-of-the-world.html) by Telegraph
 
 ### Map is based on user action
