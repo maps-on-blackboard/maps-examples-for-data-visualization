@@ -5,6 +5,7 @@ A continuously expanded list of online maps examples for data visualization. Pur
 * [Maps are based on user action](#map-is-based-on-user-action)
 * [Animated maps](#animated-maps)
 * [Time Series maps](#time-series-maps)
+* [Road and related data visualisation](#road-and-related-data-visualisation)
 
 ### Chorepleth maps (Thematic maps)
 * [N.C.A.A. Fan Map: How the Country Roots for College Football](http://www.nytimes.com/interactive/2014/10/03/upshot/ncaa-football-map.html) by The New York Times
@@ -28,7 +29,9 @@ A continuously expanded list of online maps examples for data visualization. Pur
 * [Number of Executions in Each State Since 1977](http://www.pewforum.org/2015/04/16/executions-state-by-state/) by 
 Pew Research Center
 
- 
+### Road and related data visualisation 
+* [NYC Taxis: A Day in the Life](http://nyctaxi.herokuapp.com/) very nice visualization by Chris Whong
+
 
 [1]: http://blog.visual.ly/you-are-here-using-maps-in-data-visualization/
 [2]: http://www.mapsdata.co.uk/how-to-use-mapsdata/#visualize
