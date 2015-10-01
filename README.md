@@ -22,6 +22,7 @@ A continuously expanded list of online maps examples for data visualization. Pur
 
 ### Animated Maps
 * [This Haunting Animation Maps the Journeys of 15,790 Slave Ships in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html) by Slate
+* [NYC Taxis: A Day in the Life](http://nyctaxi.herokuapp.com/) very nice visualization by Chris Whong
 
 ### Time Series maps
 * [Number of Executions in Each State Since 1977](http://www.pewforum.org/2015/04/16/executions-state-by-state/) by 
