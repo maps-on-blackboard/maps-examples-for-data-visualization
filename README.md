@@ -1,14 +1,15 @@
 A continuously expanded list of online maps examples for data visualization. Purpose is to create example set for reference and further learning.
-* [Choropleth maps (Thematic Maps)](#choropleth-map)
+* [Choropleth maps or Thematic Maps](#choropleth-maps-or-thematic-maps)
 * [Heatmap](#heatmap) 
 * [Bubble maps](#bubble-maps)
-* [Maps are based on user action](#map-is-based-on-user-action)
+* [Maps are based on user action](#maps-are-based-on-user-action)
 * [Animated maps](#animated-maps)
 * [Time Series maps](#time-series-maps)
 * [Road and related data visualisation](#road-and-related-data-visualisation)
 * [Cartograms](#cartograms)
+* [Story on maps](#story-on-maps)
 
-### Chorepleth maps (Thematic maps)
+### Choropleth maps or Thematic Maps
 * [N.C.A.A. Fan Map: How the Country Roots for College Football](http://www.nytimes.com/interactive/2014/10/03/upshot/ncaa-football-map.html) by The New York Times
 * [How central banks have lost control of the world](http://www.telegraph.co.uk/finance/economics/11378193/How-central-banks-have-lost-control-of-the-world.html) by Telegraph
 
@@ -40,6 +41,9 @@ Pew Research Center
 
 #### Learning
 * [How to Make Cartograms With Animation](http://metrocosm.com/how-to-make-cartograms-with-animation/) from [metrocosm](http://metrocosm.com) 
+
+### Story on maps
+* [Story of James Rodriguez](http://karlajaramillo.github.io/qindio-firstmap/) by [Karla Jaramillo](http://karlajaramillo.com/post/92418958547/the-story-of-james-rodriguez?utm_content=buffer94636&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 [1]: http://blog.visual.ly/you-are-here-using-maps-in-data-visualization/
 [2]: http://www.mapsdata.co.uk/how-to-use-mapsdata/#visualize
