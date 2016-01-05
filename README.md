@@ -8,6 +8,7 @@ A continuously expanded list of online maps examples for data visualization. Pur
 * [Road and related data visualisation](#road-and-related-data-visualisation)
 * [Cartograms](#cartograms)
 * [Story on maps](#story-on-maps)
+* [Maps and graph](#maps-and-graph)
 
 ### Choropleth maps or Thematic Maps
 * [N.C.A.A. Fan Map: How the Country Roots for College Football](http://www.nytimes.com/interactive/2014/10/03/upshot/ncaa-football-map.html) by The New York Times
@@ -44,6 +45,10 @@ Pew Research Center
 
 ### Story on maps
 * [Story of James Rodriguez](http://karlajaramillo.github.io/qindio-firstmap/) by [Karla Jaramillo](http://karlajaramillo.com/post/92418958547/the-story-of-james-rodriguez?utm_content=buffer94636&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+### Maps and graph
+* [Visualization of Beijing Air Pollution](http://scottcheng.github.io/bj-air-vis/) by [Scott Cheng](http://scottcheng.com/)
+
 
 [1]: http://blog.visual.ly/you-are-here-using-maps-in-data-visualization/
 [2]: http://www.mapsdata.co.uk/how-to-use-mapsdata/#visualize
